@@ -1,5 +1,6 @@
 # Data files
 contatos.txt
+*.txt
 
 # Python
 __pycache__/
@@ -25,7 +26,6 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
 
 # IDE
 .vscode/
@@ -34,20 +34,11 @@ MANIFEST
 *.swo
 *~
 .DS_Store
-*.sublime-project
-*.sublime-workspace
 
 # Testing
 .pytest_cache/
 .coverage
 htmlcov/
-.tox/
 
 # Logs
 *.log
-logs/
-
-# Temporary files
-*.tmp
-*.temp
-.tmp/
