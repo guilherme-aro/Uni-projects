@@ -1,0 +1,6 @@
+# Uni-Projects - Python Dependencies
+
+# All projects use only Python standard library
+# No external packages required
+
+# Python version: 3.6+
